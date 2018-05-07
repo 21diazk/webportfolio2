@@ -1,0 +1,161 @@
+body {
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color:#d8ecff;
+	width:80%;
+	min-width: 720px;
+	margin: 0 auto;
+}
+div {
+	box-shadow: 2px 5px;
+	border: 2px solid black;
+	border-radius: 25px;
+	background-color: white;
+	padding:1em;
+	margin:3px;
+}
+h1 {
+	background-color: #d4a8ea;
+	padding:1em;
+	border-width: 1.5px;
+	border-style:dotted;
+	border-color: black;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: ariel;
+	font-size:55px;
+	text-align:center;
+}
+h2 {
+	text-align:center;
+}
+h3 {
+	font-family: times new roman;
+	font-size: 20px;
+}
+p {
+	margin:25px;
+}
+ul {
+	background-color: white;
+	margin:0px auto;
+}
+li {
+	font-family: times new roman;
+	font-size:20px;
+}
+table {
+	padding: 1.5em;
+}
+p {
+	margin:25px;
+}
+ul {
+	background-color:white;
+	margin: 0px auto;
+}
+li {
+	font-family:times new roman;
+	font-size: 20px;
+}
+table {
+	padding: 1.5em;
+	border-width:5px;
+	border-style: solid;
+	margin: 0px auto;
+	font-family: times new roman;
+	font-size: 20px;
+	text-align: center;
+}
+th {
+	padding: 1em;
+	border-width: 2px;
+	border-style: dotted;
+	border-color: black;
+	margin:0px auto;
+	font-size:30px;
+	background-color:  #8fbc8f
+}
+td {
+	padding: 1em;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	margin: 5px;
+	background-color: #efdecd
+}
+caption {
+	font-family:arial;
+	font-size: 50px;
+	margin: 0px auto;
+}
+h3#second_title {
+	color:black;
+	font-weight:bold;
+	background:#C1F1DA;
+	border:2px;
+	padding:1em;
+	text-align: center;
+}
+h2#overview {
+	color:black;
+	font-weight:bold;
+	background:#C1F1DA;
+	border:2px;
+	padding:.29em;
+}
+h3.review {
+	background: #C1F1DA;
+	border:2px;
+}
+div#skipnav {
+	position: relative; 
+	top: 5px;
+	left: 5px;
+	right: 12.5%;
+	color: black;
+	font-weight: bold;
+	background: white;
+	border: 2px;
+	padding: .2em;
+	text-align: center;
+}
+div.info {
+	color:black;
+	text-align: left;
+	font-size: 1.2em;
+	font-family: times new roman;
+	width: 40%;
+}
+/*navigation menu styles*/
+nav{
+	padding: 0.25em;
+	text-decoration: none;/*no underline*/
+	background-color: #9D98CC;/*light purple*/
+	color: #221B64;/*dark purple*/
+	border: 2px solid black;
+	border-top-left-radius: 1em 1em;/*rounder corner!*/
+	border-top-right-radius: 1em 1em;/*another rounded corner!*/
+	float: left;
+	position:fixed;
+	right: 5px;
+	top: 5px;
+}
+nav a:hover, a:focus {
+	color: black;
+	background-color: white;
+	font-weight:bold;
+}
+
+
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
