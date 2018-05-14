@@ -159,6 +159,11 @@ button {
     background-color: #4312AE;
     cursor: pointer; /* displays a hand */
   }
+ <style>
+    div#clock { 
+      /* your style declarations go here */
+    }
+  </style>
 
 
 
