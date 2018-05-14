@@ -161,7 +161,14 @@ button {
   }
  <style>
     div#clock { 
-      /* your style declarations go here */
+      margin:5px;
+      padding:2em;
+      border:3px solid black;
+	    font-size:40px;
+	    font-family:times new roman;
+	    font-weight:bold;
+	    color:#EBF5FF;
+	    background-color:#4312AE;
     }
   </style>
 
